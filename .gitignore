@@ -1,0 +1,16 @@
+﻿# Java compiled files
+*.class
+
+# Runtime logs
+logs/*.log
+# IDE files
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+src/logs/*.log

@@ -1,0 +1,12 @@
+
+LOCATION,Bellville
+LOCATION,Parow
+LOCATION,Goodwood
+LOCATION,Cape Town
+LOCATION,Atlantis
+ROAD,Bellville,Parow,5.0
+ROAD,Bellville,Goodwood,8.0
+ROAD,Parow,Goodwood,2.0
+ROAD,Parow,Cape Town,18.0
+ROAD,Goodwood,Cape Town,12.0
+ROAD,Goodwood,Bellville,8.0
